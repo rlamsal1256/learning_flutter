@@ -11,3 +11,13 @@ pubspec.lock
 # Directory created by dartdoc
 # If you don't generate documentation locally you can remove this line.
 doc/api/
+
+# mac
+.DS_Store
+
+# vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
